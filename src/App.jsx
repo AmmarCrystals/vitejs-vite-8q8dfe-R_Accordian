@@ -1,10 +1,11 @@
 import Getdata from './Components/Getdata';
+import './index.css'; 
+
 
 const App = () => {
   return (
     <>
-      <h1>Hello</h1>
-      <h1>Hello</h1>
+      <Getdata/>
     </>
   );
 };
